@@ -15,6 +15,7 @@
 		2B34FB6423A887350012C217 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B34FB6223A887350012C217 /* LaunchScreen.storyboard */; };
 		2B34FB6F23A887350012C217 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B34FB6E23A887350012C217 /* Tip_CalculatorTests.swift */; };
 		2B34FB7A23A887350012C217 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B34FB7923A887350012C217 /* Tip_CalculatorUITests.swift */; };
+		2BF7C6BE23A8979B00101DDE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7C6BD23A8979B00101DDE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2B34FB7523A887350012C217 /* Tip-CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip-CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B34FB7923A887350012C217 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		2B34FB7B23A887350012C217 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BF7C6BD23A8979B00101DDE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		2B34FB4B23A887340012C217 = {
 			isa = PBXGroup;
 			children = (
+				2BF7C6BD23A8979B00101DDE /* README.md */,
 				2B34FB5623A887340012C217 /* Tip-Calculator */,
 				2B34FB6D23A887350012C217 /* Tip-CalculatorTests */,
 				2B34FB7823A887350012C217 /* Tip-CalculatorUITests */,
@@ -234,6 +237,7 @@
 			files = (
 				2B34FB6423A887350012C217 /* LaunchScreen.storyboard in Resources */,
 				2B34FB6123A887350012C217 /* Assets.xcassets in Resources */,
+				2BF7C6BE23A8979B00101DDE /* README.md in Resources */,
 				2B34FB5F23A887340012C217 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
